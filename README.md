@@ -14,8 +14,9 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif" />
 
-javascript
+```javascript
 const Nikesh = {
+    fullName: "Nikesh Niroula",
     location: "Jhapa, Nepal 🇳🇵",
     role: "Frontend Developer",
     passion: "Creating Beautiful Digital Experiences",
@@ -26,7 +27,7 @@ const Nikesh = {
     tools: ["Docker", "Git", "Figma", "Linux"],
     motto: "React-ING on UI problems daily ✨"
 };
-
+```
 
 ---
 
@@ -38,7 +39,7 @@ const Nikesh = {
 |:---:|:---:|:---:|
 | React.js Wizardry | Node.js & Express | End-to-end Solutions |
 | Modern CSS & UI/UX | Database Design | API Development |
-| Responsive Design | Django & Postgres | Mern Stack |
+| Responsive Design | Django & Postgres | MERN Stack Projects |
 
 </div>
 
@@ -74,12 +75,12 @@ const Nikesh = {
 ## 📊 *GitHub Analytics*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clawz-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clawz-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nike252&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nike252&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clawz-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nike252&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="60%" />
 </div>
 
 ---
@@ -87,7 +88,7 @@ const Nikesh = {
 ## 🏆 *Achievement Gallery*
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clawz-123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nike252&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=15&no-bg=true" />
 </div>
 
 ---
@@ -96,13 +97,13 @@ const Nikesh = {
 
 <div align="center">
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=your-best-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/your-best-project)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=clawz-123&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Clawz-123/another-project)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=Nike252&repo=your-best-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Nike252/your-best-project)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=Nike252&repo=another-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/Nike252/another-project)
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/Clawz-123?tab=repositories">
+  <a href="https://github.com/Nike252?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
@@ -113,10 +114,10 @@ const Nikesh = {
 
 <div align="center">
   
-[![LinkedIn](https://www.linkedin.com/in/nikesh-niroula-8aa902283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-niroula-8aa902283/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikeshniroula252@gmail.com)
-[![Facebook](https://www.facebook.com/nikesh.niroula.2025)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@clawzeditz100)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nikesh.niroula.2025)
 
 </div>
 
@@ -126,13 +127,11 @@ const Nikesh = {
 
 <div align="center">
   
-diff
-+ 🌟 I believe in clean code and pixel-perfect designs
-+ 🔍 Always exploring new technologies and frameworks
-+ 🎵 Code better with music on
-+ 🏔 Proudly representing Nepal in the global tech community
-+ 💪 Turning coffee into code since day one
-
++ 🌟 I believe in clean code and pixel-perfect designs  
++ 🔍 Always exploring new technologies and frameworks  
++ 🎵 Code better with music on  
++ 🏔 Proudly representing Nepal in the global tech community  
++ 💪 Turning coffee into code since day one  
 
 </div>
 
@@ -141,7 +140,7 @@ diff
 ## 📈 *Activity Graph*
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clawz-123&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nike252&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -149,7 +148,7 @@ diff
 ## 🎯 *Profile Visitors*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=clawz-123&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nike252&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -161,5 +160,5 @@ diff
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!;Made+with+%E2%9D%A4%EF%B8%8F+from+Nepal" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing+together!;Made+with+%E2%9D%A4%EF%B8%8F+from+Nepal" alt="Footer Typing SVG" />
 </div>
